@@ -17,9 +17,10 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
+* _Download project repository from GH to local machine_
+* _Use local machine terminal to install all project packages using command ```$ npm install```_
+* _Use local machine terminal to build project using command ```$ npm build```_
+* _Use local machine terminal to start development server using command ```$ npm start```_
 * _easy-to-understand_
 * _format_
 
